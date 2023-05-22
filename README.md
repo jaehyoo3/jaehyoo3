@@ -1,6 +1,4 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder)
-</div>
+![header](https://capsule-render.vercel.app/api?type=Cylinder)
 
 ### Hi there 👋
 
