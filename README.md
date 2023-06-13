@@ -23,8 +23,6 @@
 </p>
 
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=jaehyoo3&show_icons=true&theme=merko" alt="jaehyoo3" />
-  <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaehyoo3&show_icons=true&layout=compact&theme=merko" alt="jaehyoo3" />
   </div>
 <!--
