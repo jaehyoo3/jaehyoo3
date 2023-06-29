@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
   <br>
-  <p align="center"> :seedling: Studying <br><br> <img src="https://img.shields.io/badge/nodejs-339933?style=flat&logo=JavaScript&logoColor=white" /> </p>
+  <p align="center"> :seedling: Studying <br><br> <img src="https://img.shields.io/badge/vuejs-339933?style=flat&logo=JavaScript&logoColor=white" /> </p>
 </p>
 
 <div align=center>
