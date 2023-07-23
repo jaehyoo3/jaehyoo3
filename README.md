@@ -18,10 +18,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+	<br>
   <img src="https://img.shields.io/badge/vuejs-339933?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=Intellij&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white" /> 
   <br>
-  <p align="center"> :seedling: Studying <br><br> <img src="https://img.shields.io/badge/vuejs-339933?style=flat&logo=JavaScript&logoColor=white" /> </p>
+  <p align="center"> :seedling: Studying <br><br> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=SpringBoot Jwt&logoColor=white" />
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" /></p>
 </p>
 
 <div align=center>
