@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white" /> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" /> 
   <br>
-  <p align="center"> :seedling: Studying <br><br> <img src="https://img.shields.io/badge/JWT-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <p align="center"> :seedling: Studying <br>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" /></p>
 </p>
 
