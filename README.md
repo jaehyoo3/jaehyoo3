@@ -12,4 +12,4 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-<a href="https://156.228.4.172/"><img src="./assets/oneulseon-api.gif" width="560" alt="오늘선 공개 코스 API 요청과 200 OK 응답 예시"></a>
+<a href="https://github.com/SungbinYang/SungbinYang/blob/master/static/api.gif"><img src="https://raw.githubusercontent.com/SungbinYang/SungbinYang/master/static/api.gif" width="500" alt="API 칩이 있는 회로 기판 애니메이션"></a>
