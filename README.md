@@ -1,45 +1,37 @@
-<div align="center">
-     <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&section=header&text=Welcome%20to%20JaeHyo's%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=50&height=200" />
- </div> 
- <br>
- <p align="center">
-   :four_leaf_clover: SKill
- <br>
- <br>
-   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
- 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
- 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-   <br>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-   <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
-   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
- 	<br>
-   <img src="https://img.shields.io/badge/vuejs-339933?style=flat&logo=JavaScript&logoColor=white" />
-   <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" /></p>
+# 신재효
 
-   <br>
-   <p align="center"> :seedling: Studying <br>
- </p>
- 
- <div align=center>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaehyoo3&show_icons=true&layout=compact&theme=merko" alt="jaehyoo3" />
-   </div>
- <!--
- **jaehyoo3/jaehyoo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
- Here are some ideas to get you started:
- 
- - 🔭 I’m currently working on ...
- - 🌱 I’m currently learning ...
- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
- - 💬 Ask me about ...
- - 📫 How to reach me: ...
- - 😄 Pronouns: ...
- - ⚡ Fun fact: ...
- -->
+Java·Spring 백엔드 개발자  
+Java, Spring Boot, JPA, QueryDSL, MariaDB, PostgreSQL, Redis
+
+## Experience
+
+### 할로와 · 백엔드 개발 (2025.11 ~ 2026.10.28)
+
+- **식자재 유통·물류 ERP** — 백엔드 단독 설계. 전표·재고·단가의 트랜잭션 경계를 정하고, QueryDSL 동적 쿼리·MariaDB 인덱스·Redis 캐시로 조회를 개선했습니다.
+- **JARI-ON** — 출입·좌석 관리 백엔드를 개발했습니다. Python·YOLO 영상 추론 서비스를 처음부터 직접 구현해 GPU 서버에 배포했습니다.
+
+### 씨엔넷 · ITS 개발 (2025.06 ~ 2025.11)
+
+- 관제·장비 관리 API와 DB를 설계했습니다. ONVIF 카메라 연동을 구현하고, 장비 로그는 Kafka로 수집해 ClickHouse에 적재했습니다.
+
+### 유아이네트웍스 · BIMS 개발 (2023.08 ~ 2024.10)
+
+- 세종시 버스정보관리시스템의 백엔드와 MSA를 단독 설계하고, 팀장과 DB 구조를 설계했습니다.
+
+### 스타일봇 · 백엔드 개발 인턴 (2022.12 ~ 2023.04)
+
+- JPA·QueryDSL로 관리자 통계 API를 만들고 Spring Scheduler로 반복 집계를 자동화했습니다.
+
+## Projects
+
+### [오늘선](https://156.228.4.172/) · 데이트 코스 추천 및 약속 서비스
+
+- 카카오 로컬·Gemini API를 연동했습니다. Gemini가 고른 장소를 실제 후보와 대조하고, 호출 실패 시 규칙 기반 추천으로 전환했습니다.
+- 일정 변경 전의 동의로는 약속이 확정되지 않도록 버전을 비교하고 재동의 흐름을 테스트했습니다.
+- 운영 이미지 58장을 WebP로 변환해 총 용량을 24.3MB에서 6.6MB로 줄였습니다.
+
+## Education
+
+- **한국방송통신대학교** 컴퓨터과학과 (2025.08 ~ 재학 중)
+- **EZEN IT 아카데미** Java 웹·네이티브 앱 개발 및 AWS 클라우드 과정 (2022.06 ~ 2022.12)
+- **수원과학대학교** 컴퓨터정보과 (2016.03 ~ 2019.02)
